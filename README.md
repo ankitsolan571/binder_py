@@ -1,2 +1,2 @@
 # binder_py
-learnign python using binder
+learning python using binder
